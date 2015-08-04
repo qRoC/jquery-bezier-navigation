@@ -1,4 +1,4 @@
-/*! jquery-bezier-navigation - Copyright 2015 Andrey qRoC Savitskiy */
+/*! jquery-bezier-navigation - Copyright 2015 Andrey <qRoC.Work@gmail.com> Savitskiy */
 (function($)
 {
     'use strict';
@@ -151,7 +151,7 @@
         $blueprint.css({
             position: 'absolute',
             top:  0,
-            left: 0,
+            left: 0
         });
 
         var menu_items = [];
